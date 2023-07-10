@@ -4,7 +4,7 @@ Contributors: martatorre
 
 Tags: image, optimitation
 
-Requires at least: 7.2
+Requires at least: 5.6
 
 Tested up to: 6.2.2
 
