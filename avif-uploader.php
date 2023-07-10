@@ -1,7 +1,12 @@
 <?php
 /*
-Plugin Name: AVIF Uploader
-*/
+	Plugin Name: AVIF Uploader
+	Description: Very simple plugin to create a works portfolio
+	Author: Marta Torre
+	Version: 1.0
+	License: GPLv3 or later
+	License URI: https://www.gnu.org/licenses/gpl-3.0.html
+	*/
 
 // Agrega el formulario al área de administración
 function avif_uploader_form() {
