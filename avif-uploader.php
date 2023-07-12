@@ -4,6 +4,8 @@ Plugin Name: MT AVIF Uploader
 Description: This plugin allows users to upload AVIF files.
 Author: Marta Torre
 Author URI: https://english.martatorre.dev
+https://github.com/martatorredev
+Donate link: https://github.com/martatorredev
 Text Domain: avif-uploader
 */
 
