@@ -2,6 +2,7 @@
 /*
 Plugin Name: MT AVIF Uploader
 Description: This plugin allows users to upload AVIF files.
+Plugin URI: https://github.com/martatorredev/mt-avif-uploader
 Version: 1.0
 Requires at least: 6.4
 Requires PHP: 8.0
