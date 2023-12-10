@@ -2,10 +2,13 @@
 /*
 Plugin Name: MT AVIF Uploader
 Description: This plugin allows users to upload AVIF files.
+Version: 1.0
+Requires at least: 6.4
+Requires PHP: 8.0
 Author: Marta Torre
-Author URI: https://english.martatorre.dev
-https://github.com/martatorredev
-Donate link: https://github.com/martatorredev
+Author URI: Author URI: https://github.com/martatorredev
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: avif-uploader
 */
 
